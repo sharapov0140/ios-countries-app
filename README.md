@@ -11,7 +11,7 @@ This iOS application demonstrates how to:
     * A top line with `[Name, Region]` pinned to the left.
     * The `[Code]` pinned to the right on the same line.
     * The `[Capital]` pinned below the name/region.
-* **Filter** the list of countries in real-time using a search bar.
+* **Filter** the list of countries,capitals in real-time using a search bar.
 * Support modern iOS features like **dynamic type** and **device rotation**.
 * Utilize common design patterns like **MVVM** (Model-View-ViewModel).
 
