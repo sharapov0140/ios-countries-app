@@ -2,8 +2,6 @@
 
 ## Overview
 
-This document provides complete, up-to-date documentation for the **Countries iOS project**. It explains the project's purpose, architecture, layout, and how the layout correctly handles varying text lengths, specifically ensuring the country code remains pinned to the right without being overlapped.
-
 This iOS application demonstrates how to:
 
 * **Fetch** a list of countries from a remote JSON endpoint.
