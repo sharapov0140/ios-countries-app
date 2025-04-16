@@ -37,7 +37,6 @@ The primary goals and requirements for this application are:
 
 The project follows a standard MVVM structure:
 
-* **AppDelegate/SceneDelegate:** Handle application and scene lifecycle events.
 * **Models/Country:** Defines the `Country` struct matching the JSON structure.
 * **Services/CountriesService:** Responsible for network requests to fetch the country data.
 * **ViewModels/CountriesViewModel:** Acts as the bridge between the Model (data) and the View. It fetches, stores, filters data, and prepares it for display.
