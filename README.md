@@ -78,16 +78,3 @@ The project follows a standard MVVM structure:
 
 ---
 
-## 4. Detailed File Descriptions
-
-### A) Models/Country.swift
-
-Defines the data structure for a country, conforming to `Decodable` for easy JSON parsing.
-
-```swift
-struct Country: Decodable {
-    let name: String
-    let region: String
-    let code: String
-    let capital: String
-}
